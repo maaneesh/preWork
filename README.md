@@ -30,9 +30,18 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming
 
-Mood Tracking App
--User enters mood
--assign a color based on the users mood and give a colorful image representation for users mood.
+Calm
+-Plays relaxing sound when App is open
+-has helpful categories
+
+Music App
+-lets me favorite a song by tapping a star icon
+-changes backgound based on music thats playing
+
+Mail App
+-has helpful buttons for frequent actions
+-also works with swipe gestures
+
 
 
 
@@ -55,4 +64,3 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-
