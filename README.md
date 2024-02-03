@@ -42,6 +42,10 @@ Mail App
 -has helpful buttons for frequent actions
 -also works with swipe gestures
 
+New App Idea
+    Create a mood tracking app that will remind me of my favorite memories, photos ,notes, etc.
+    And based on my mood check-ins it gets assigned a color. Over a time the colors can be used to get an idea of my mental well being.
+
 
 
 
